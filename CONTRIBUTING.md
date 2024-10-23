@@ -26,7 +26,7 @@ After completing the onboarding process, you can access GitHub and start contrib
 Now you are ready to contribute. Please check the process [how to contribute](#how-to-contribute) in the next section.
 
 # How to contribute
-If you are already part of the SFTI community and interested in contributing to the improvement and further development of the XS2A/payment API's, then please follow the process described below.
+If you are already part of the SFTI community and interested in contributing to the improvement and further development of the topics of API security, in the context of FAPI 2.0 and Consent Management, then please follow the process described below.
 
 **1. Raise an issue**  
 At GitHub raise an [issue](https://github.com/swissfintechinnovations/ca-payment/issues), describe the initial situation and elaborate on the added value of the proposed change/improvement.
