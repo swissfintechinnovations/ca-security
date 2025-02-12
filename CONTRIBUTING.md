@@ -29,13 +29,13 @@ Now you are ready to contribute. Please check the process [how to contribute](#h
 If you are already part of the SFTI community and interested in contributing to the improvement and further development of the topics of API security, in the context of FAPI 2.0 and Consent Management, then please follow the process described below.
 
 **1. Raise an issue**  
-At GitHub raise an [issue](https://github.com/swissfintechinnovations/ca-payment/issues), describe the initial situation and elaborate on the added value of the proposed change/improvement.
+At GitHub raise an [issue](https://github.com/swissfintechinnovations/ca-security/issues), describe the initial situation and elaborate on the added value of the proposed change/improvement.
 
 **2. Present issue / change request**  
 After a first review by the API stream leads you will be be invited to present and pitch the proposed change/improvement in the next working group meeting of the SFTI community.
 
 **3. Create a pull request**  
-If the working group participants agree to your proposal a pull [request](https://github.com/swissfintechinnovations/ca-payment/pulls) will be created. Depending on the agreement with the stream leads, the pull request is created by you or the stream leads.
+If the working group participants agree to your proposal a pull [request](https://github.com/swissfintechinnovations/ca-security/pulls) will be created. Depending on the agreement with the stream leads, the pull request is created by you or the stream leads.
 
 **4. Approval of pull request**  
 The pull request will then be presented and discussed in one of the next working group meetings. The participants then decide if the pull request can be approved and implemented (by merging it to the main branch) in one of the next releases.
